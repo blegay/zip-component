@@ -1,0 +1,10 @@
+
+OS X :
+p7zip v16.02 - 2016-05-21
+https://sourceforge.net/projects/p7zip/files/p7zip/16.02/
+
+compiled by Bruno LEGAY on 07/05/2020 (32 and 64 bits), fat binaries
+
+Windows :
+7zip v16.04 - 2016-10-04 (32 and 64 bits) 
+https://www.7-zip.org/a/7z1604-extra.7z
