@@ -16,3 +16,7 @@
 *.Match
 *.4BL
 *.4BK
+/Components
+/Logs
+/Logs_4D
+/Settings
