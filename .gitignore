@@ -1,15 +1,3 @@
-/Trash
-/Sources/Methods/test__gzip.4dm
-/Sources/Methods/test.4dm
-/Sources/Methods/XDOC_run.4dm
-/Sources/Methods/ZIP__errHdlrToDevNull.4dm
-/Sources/styleSheets_mac.css
-/Sources/styleSheets_windows.css
-/Sources/menus.json
-/DerivedData/formAttributes.json
-/DerivedData/CompiledCode
-/DerivedData/webservices.json
-/Sources/catalog.4DCatalog
 /Project/DerivedData/CompiledCode
 /Project/DerivedData/formAttributes.json
 /Project/Sources/Methods/test__gzip.4dm
@@ -18,5 +6,13 @@
 /Project/Sources/Methods/ZIP__errHdlrToDevNull.4dm
 /Project/Sources/styleSheets_mac.css
 /Project/Sources/styleSheets_windows.css
+/Project/DerivedData/webservices.json
+/Project/Sources/catalog.4DCatalog
+/Project/Sources/menus.json
 /Project/Trash
 /userPreferences.Bruno LEGAY
+*.4DD
+*.journal
+*.Match
+*.4BL
+*.4BK
