@@ -1,0 +1,89 @@
+﻿{
+	"DBG": {
+		"methods": [
+			"DBG__dbgInitAuto"
+		]
+	},
+	"Dossier par défaut": {
+		"groups": [
+			"Formulaires par défaut",
+			"Méthodes projet par défaut",
+			"Tables par défaut"
+		],
+		"methods": [
+			"test"
+		]
+	},
+	"ENV": {
+		"methods": [
+			"ENV_onWindows"
+		]
+	},
+	"Formulaires par défaut": {},
+	"FS": {
+		"methods": [
+			"FS_pathToExtension",
+			"FS_posix_macPathToUnixPath",
+			"LPE__removeLastLF"
+		]
+	},
+	"Lib": {
+		"groups": [
+			"DBG",
+			"ENV",
+			"FS",
+			"LPE",
+			"PTR",
+			"TAB",
+			"UTL"
+		]
+	},
+	"LPE": {
+		"methods": [
+			"LPE_HideConsole"
+		]
+	},
+	"Méthodes projet par défaut": {},
+	"PTR": {},
+	"TAB": {},
+	"Tables par défaut": {},
+	"UTL": {
+		"methods": [
+			"UTL_initAuto"
+		]
+	},
+	"ZIP Private": {
+		"methods": [
+			"test__gzip",
+			"XDOC_run",
+			"ZIP__compiler",
+			"ZIP__errHdlrToDevNull",
+			"ZIP__initAuto",
+			"ZIP__initSub",
+			"ZIP__moduleDebugDateTimeLine",
+			"ZIP__testSub",
+			"ZIP__xdocInit",
+			"ZIP__zipExecBitForce"
+		]
+	},
+	"ZIP public": {
+		"methods": [
+			"ZIP_7zaVersGet",
+			"ZIP_addOne",
+			"ZIP_autoTypeSwitch",
+			"ZIP_componentVersionGet",
+			"ZIP_exec",
+			"ZIP_execPathGet",
+			"ZIP_execPathSet",
+			"ZIP_extract",
+			"ZIP_filePathNormalize",
+			"ZIP_listResult",
+			"ZIP_listResultParse",
+			"ZIP_passwordSwitch",
+			"ZIP_resultIsOk",
+			"ZIP_selfTest",
+			"ZIP_successString"
+		]
+	},
+	"trash": {}
+}
